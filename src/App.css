@@ -1,0 +1,18 @@
+.form-control{
+  width: 50%;
+  margin-top: 2%;
+  margin-left: 27%;
+}
+button{
+  margin-top: 2%;
+}
+.table{
+  width: 50%;
+  margin-left: 27%;
+}
+.hiddenDetails{
+  display: none;
+}
+.showDetails{
+  display: bloc;
+}
